@@ -132,6 +132,26 @@ section {
   background-image: url(../images/section-a.webp);
 }
 
+.section-b {
+  background-image: url(../images/section-b.webp);
+}
+
+.section-c {
+  background-image: url(../images/section-c.webp);
+}
+
+.section-d {
+  background-image: url(../images/section-d.webp);
+}
+
+.section-e {
+  background-image: url(../images/section-e.webp);
+}
+
+.section-f {
+  background-image: url(../images/section-f.webp);
+}
+
 .btn {
   position: relative;
   display: inline-block;
@@ -144,6 +164,7 @@ section {
   text-transform: uppercase;
   font-weight: bold;
   overflow: hidden;
+  border-radius: 1px;
   z-index: 2;
 }
 
