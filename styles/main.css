@@ -450,6 +450,18 @@ footer ul li a:hover {
   .desktop-main-menu ul li {
     font-size: 13px;
   }
+
+  .stats {
+    width: 85%;
+  }
+
+  .stats div span {
+    font-size: 140px;
+  }
+
+  .stats div h4 {
+    font-size: 20px;
+  }
 }
 
 @media (max-width: 1000px) {
