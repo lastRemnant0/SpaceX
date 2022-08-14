@@ -472,6 +472,10 @@ footer ul li a:hover {
   .mobile-main-menu ul li {
     font-size: 15px;
   }
+
+  .section-inner-center h3 {
+    font-size: 75px;
+  }
 }
 
 @media (max-width: 600px) {
@@ -502,5 +506,22 @@ footer ul li a:hover {
   .logo {
     width: 150px;
     margin: auto;
+  }
+
+  .section-inner-center {
+    width: 80%;
+  }
+
+  .section-inner-center h3 {
+    font-size: 50px;
+  }
+
+  /* Stats */
+  .stats {
+    flex-direction: column;
+  }
+
+  .stats div {
+    margin-bottom: 20px;
   }
 }
